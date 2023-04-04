@@ -1,0 +1,39 @@
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b1bca77e-038f-4cb4-bc4f-edbd1f667286?P1=1676319898&P2=404&P3=2&P4=baEYQAeIRG2Y9MUkOg7xZcHYwz4ErhlwoPaWeEh2VhGIXpCI76JBcFpbpZWi7Y9lazkjBt91OkevpOl%2f2Hz%2bog%3d%3d
+Actual download started
+Download complete
+Registering package
+Deployment progress: Processing 0%
+Deployment done: Error
+App re-register done!
+App launch finished!
+Registering package
+Deployment done: Error
+App re-register done!
+App launch finished!
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3a00562e-5e4e-47b9-8e3f-7a56efee8522?P1=1676367613&P2=404&P3=2&P4=h77GL4i86JpqmVk7lS81B8%2bnrKRyclUlEre1V91%2by7KAHdVdBLkQAKk2WpiJGU0%2ftaBuiMIRIbgZMJRZyFR6Yg%3d%3d
+Actual download started
+Download complete
+Removing package: Microsoft.MinecraftUWP_1.19.5002.0_x64__8wekyb3d8bbwe C:\Program Files\WindowsApps\Microsoft.MinecraftUWP_1.19.5002.0_x64__8wekyb3d8bbwe
+Moving Minecraft data to: C:\Users\rigve\AppData\Local\TmpMinecraftLocalState
+Deployment progress: Processing 0%
+Deployment progress: Processing 100%
+Deployment done: Completed
+Removal of package done: Microsoft.MinecraftUWP_1.19.5002.0_x64__8wekyb3d8bbwe
+Registering package
+Deployment done: Error
+App re-register done!
+App re-register failed:
+System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Windows.Management.Core.ApplicationDataManager.CreateForPackageFamily(String packageFamilyName)
+   at MCLauncher.MainWindow.RestoreMinecraftDataFromReinstall()
+   at MCLauncher.MainWindow.<ReRegisterPackage>d__20.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MCLauncher.MainWindow.<>c__DisplayClass14_0.<<InvokeLaunch>b__0>d.MoveNext()
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1a5a02bc-c9ab-4856-b759-0522da5856ea?P1=1678638088&P2=404&P3=2&P4=Pir3bmEEF9CHKu6%2bK2uLs2zsWDm2bk6M97yIOPwKNcFs16nWRbfodzbkd3%2fWbMhuAM7bXSa8NaspMPStcY%2b3Aw%3d%3d
+Actual download started
+Download complete
